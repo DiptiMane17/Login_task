@@ -18,7 +18,7 @@ namespace Login_task
 
             frm_Dashboard obj = new frm_Dashboard();
             obj.Show();
-            this.Hide();
+            
         }
     }
 }
