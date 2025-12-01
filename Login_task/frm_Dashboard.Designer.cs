@@ -33,12 +33,13 @@
             // 
             // button1
             // 
-            button1.Location = new Point(323, 176);
+            button1.Location = new Point(328, 186);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 0;
             button1.Text = "1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // frm_Dashboard
             // 
